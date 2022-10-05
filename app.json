@@ -1,0 +1,6 @@
+{
+    "name": "Tech Fiddle Meet Backend App",
+    "description": "Tech Fiddle Meet NodeJS backend to interact with the Dyte REST API",
+    "repository": "https://github.com/Comp-Labs/Meet-Backend",
+    "keywords": ["node", "express"]
+  }
